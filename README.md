@@ -71,4 +71,3 @@ To handle modern web UIs (React-based), the agent uses:
 
 ---
 
-## 🏗️ Architecture
